@@ -13,3 +13,6 @@ Navdeep kaur(DCH-8040)
 prachi (DCH-8052)
 karan (DCH-8117)
 
+idea motive : we saw that in family having person with some dissability they are unable to give their proper time to them. so,this website will help them to 
+cope up with that situation and also provide easily accesible service from the persons who are trained for that.
+
